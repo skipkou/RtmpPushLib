@@ -3,7 +3,7 @@
 #include "AndroidLog.h"
 
 extern "C" {
-#include "librtmp/Rtmp.h"
+#include "librtmp/rtmp.h"
 }
 
 class Queue {
