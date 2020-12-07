@@ -2,9 +2,10 @@
 
 [![](https://jitpack.io/v/skipkou/RtmpPushLib.svg)](https://jitpack.io/#skipkou/RtmpPushLib)
 
-rtmp推流纯音频
+Android端rtmp推流纯音频库
 
 使用方法
+
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
