@@ -1,0 +1,3 @@
+include ':rtmplib'
+include ':app'
+rootProject.name = "MyLib"
